@@ -7,7 +7,7 @@ Shoxruh Quvondiqov
 Vazifani to'liq yakunlaguncha taxminan 3 soat vaqt oldi.
 
 ## Qiyin bo‘lgan joylar
-new CustomEvent bilan ishlashda biroz qiyinchilik bo'ldi, lekin sourcelar orqali qiyinchilikni bartaraf etdim. Qolgan funktsiya va boshqa narsalar qiyinchilik tug'dirmadi.
+new CustomEvent bilan ishlashda biroz qiyinchilik bo'ldi, lekin sourcelar orqali qiyinchilikni bartaraf etdim. Qolgan funktsiya va API bilan ishlash qiyinchilik tug'dirmadi.
 
 ## Interfeys skrinshotlari
 <p float="left">
@@ -21,4 +21,4 @@ new CustomEvent bilan ishlashda biroz qiyinchilik bo'ldi, lekin sourcelar orqali
 </p>
 
 ## Demo havolasi
-[Agar mavjud bo‘lsa, demo sayt yoki ishchi versiya havolasini yozing]
+https://mini-marketpl.netlify.app
